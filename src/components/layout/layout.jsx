@@ -4,6 +4,7 @@ import LogoText from './logo'
 import TopBar from './top-bar'
 import ButtonAction from './button-action'
 import NavigationBar from './navigation-bar'
+import FooterBar from './footer'
 
 function Layout() {
   return (
@@ -18,14 +19,17 @@ function Layout() {
                     <ButtonAction />
                 </section>
             </nav>
-           
         </header>
         <nav className='sticky top-0 z-50'>
             <NavigationBar />
         </nav>
-       <main className='max-w-7xl mx-auto'>
-        <Outlet />
-       </main>
+        <main className='max-w-7xl mx-auto'>
+            <Outlet />
+        </main>
+        <footer>
+            <FooterBar />
+        </footer>
+
     </>
   )
 }

@@ -9,7 +9,7 @@ function HomeCategory() {
       {
         mock_data.data.map((item, index) => {
           return (
-            <div key={index} className='h-16 w-44 duration-200 hover:shadow rounded-md cursor-pointer'>
+            <div key={index} className='h-12 w-32 duration-200 hover:shadow rounded-md cursor-pointer'>
               <img 
               className='
               w-[90%]

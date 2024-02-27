@@ -10,3 +10,12 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+
+
+.cart-item .icon-heart{
+  left: -50px;
+}
+.cart-item:hover .icon-heart{
+  display: block;
+  left: 10px;
+}

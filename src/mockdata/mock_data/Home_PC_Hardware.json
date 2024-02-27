@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "id" : 1,
+            "name" : "14th Intel® (Pricing Set)" ,
+            "desc" : "",
+            "price" : "1,249.00",
+            "images" : "https://www.perennial.com.bd/image/cache/catalog/Intel%2014Gen%20Processor/intel-14th-gen-core-i9-desktop-processor-perennial-500x500.jpeg"
+        },
+        {
+            "id" : 2,
+            "name" : "13th Intel® (Pricing Set)" ,
+            "desc" : "",
+            "price" : "699.00",
+            "images" : "https://www.pcstudio.in/wp-content/uploads/2022/10/Intel-Core-I9-13900K-Processor-1.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "12th Intel® (Pricing Set)" ,
+            "desc" : "",
+            "price" : "649.00",
+            "images" : "https://s3.us-east-2.amazonaws.com/ccp-prd-s3-uploads/2022/11/30/dce125bf9e060bf26bda7a3913ea7dd2d773fcaa.jpeg"
+        },
+        {
+            "id" : 4,
+            "name" : "11th & 10th Intel® (Pricing Set)" ,
+            "desc" : "",
+            "price" : "499.00",
+            "images" : "https://www.ryanscomputers.com/storage/products/main/bundle-with-pc-intel-11th-gen-rocket-lake-core-11629273564.webp"
+        }
+    ]
+}

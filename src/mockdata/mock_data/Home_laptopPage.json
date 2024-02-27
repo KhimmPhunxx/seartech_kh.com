@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "name": "ASUS TUF Gaming F17 RTX 4060 (2024)",
+            "price": "1249.00",
+            "desc": "",
+            "image": "https://dlcdnwebimgs.asus.com/gain/954a896a-8b19-472b-a533-0041271a7c67/"        
+        },
+        {
+            "id": 2,
+            "name": "ASUS TUF FA506NF-HN023W",
+            "price": "699.00",
+            "desc": "",
+            "image": "https://dlcdnwebimgs.asus.com/gain/1387056a-60c6-4579-a3f7-ccf65affd7fa/"        
+        },
+        {
+            "id": 3,
+            "name": "Msi GF63 Thin 12UCX (Intel 12th Gen)",
+            "price": "649.00",
+            "desc": "",
+            "image": "https://asset.msi.com/resize/image/global/product/product_16899256437f1751361e46f411a77ee1180aff33d7.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"        
+        },
+        {
+            "id": 4,
+            "name": "Surface Laptop 3 15 | R5 2K",
+            "price": "499.00",
+            "desc": "",
+            "image": "https://trungtran.vn/upload_images/images/products/surface-laptop/large/6708_surface_laptop_3_15inch_1-e1666684455112.png"        
+        }
+    ]
+}

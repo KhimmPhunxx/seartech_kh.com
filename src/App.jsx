@@ -15,7 +15,7 @@ function App() {
           <Route path='' element={<HomePage/>} />
           <Route path='laptop' element={<LaptopPage/>} />
           <Route path='pc_hardware' element={<PC_Hardware/>} />
-
+  
         </Route>
       </Routes>
    </BrowserRouter>
