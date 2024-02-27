@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Asus",
+            "image": "https://www.svgrepo.com/show/305750/asus.svg"
+        },
+        {
+            "id": 2,
+            "name": "tp_link",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/TPLINK_Logo_2.png"
+        },
+        {
+            "id": 3,
+            "name": "Lenovo",
+            "image": "https://1000logos.net/wp-content/uploads/2017/03/Lenovo-Logo-1.png"
+        },
+        {
+            "id": 4,
+            "name": "AMD",
+            "image": "https://1000logos.net/wp-content/uploads/2020/05/AMD-Logo.png"
+        },
+        {
+            "id": 5,
+            "name": "MSI",
+            "image": "https://logos-world.net/wp-content/uploads/2020/11/MSI-Logo.png"
+        },
+        {
+            "id": 6,
+            "name": "DELL",
+            "image": "https://logos-world.net/wp-content/uploads/2020/08/Dell-Logo-1989-2016.png"
+        } 
+    ]
+}

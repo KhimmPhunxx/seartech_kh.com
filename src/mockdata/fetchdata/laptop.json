@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Dell",
+            "price": 500
+        },
+        {
+            "id": 2,
+            "name": "HP",
+            "price": 600
+        },
+        {
+            "id": 3,
+            "name": "Lenovo",
+            "price": 700
+        }
+    ]
+}
