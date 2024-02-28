@@ -7,11 +7,13 @@ import { FaEye } from "react-icons/fa";
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 
-const onClickHeart = (e) => {
-    e.target.classList.toggle('text-red-500')
-}
+
 
 function Home_AccessoriesPage() {
+
+    const onClickHeart = (e) => {
+        e.target.classList.toggle('text-red-500')
+    }
     useEffect(() => {
         Aos.init({duration: 900})
     }, [])

@@ -27,12 +27,12 @@ function ButtonAction() {
       </button>
       <Drawer title="SearTechKH" onClose={onClose} open={open}>
         <div className='flex flex-col space-y-3'>
-          <NavLink to='/' className='text-xl font-medium text-gray-700 dark:text-white'>Home</NavLink>
-          <NavLink to='/laptop' className='text-xl font-medium text-gray-700 dark:text-white'>Laptop</NavLink>
-          <NavLink to='/pc_hardware' className='text-xl font-medium text-gray-700 dark:text-white'>PC Hardware</NavLink>
-          <NavLink to='/accessory' className='text-xl font-medium text-gray-700 dark:text-white'>Accessories</NavLink>
-          <NavLink to='/peripherals' className='text-xl font-medium text-gray-700 dark:text-white'>Peripherals</NavLink>
-          <NavLink to='/pc_set' className='text-xl font-medium text-gray-700 dark:text-white'>PC Sets</NavLink>
+          <NavLink to='/' className='text-xl font-medium text-gray-700 '>Home</NavLink>
+          <NavLink to='/laptop' className='text-xl font-medium text-gray-700 '>Laptop</NavLink>
+          <NavLink to='/pc_hardware' className='text-xl font-medium text-gray-700 '>PC Hardware</NavLink>
+          <NavLink to='/accessory' className='text-xl font-medium text-gray-700 '>Accessories</NavLink>
+          <NavLink to='/peripherals' className='text-xl font-medium text-gray-700 '>Peripherals</NavLink>
+          <NavLink to='/pc_set' className='text-xl font-medium text-gray-700 '>PC Sets</NavLink>
         </div>
       </Drawer>
     </div>

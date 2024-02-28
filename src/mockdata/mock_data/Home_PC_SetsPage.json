@@ -1,0 +1,32 @@
+{
+    "data":  [
+        {
+            "id": 1,
+            "name": "IdeaCentre AIO 3 22IAP7 - Intel® Core™ i3-1220P Processor",
+            "price": "589.00",
+            "desc": "",
+            "image": "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/JovZPhMNfukkEHtIlvbWVPOaXb9b257k3mWhWsKY.png"
+        },
+        {
+            "id": 2,
+            "name": "ThinkCentre Neo 30A 24 (AIO) - Intel® Core™ i5-1240P Processor",
+            "price": "759.00",
+            "desc": "",
+            "image": "https://digi.co.id/pub/media/catalog/product/cache/a8ec9a52a279f7320f3e0c23571ee185/1/l/1lenovo_4.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Dell Inspiron AIO 5410 Touch (Silver) - Intel® Core™ i7-1255U",
+            "price": "1,199.00",
+            "desc": "",
+            "image": "https://i5.walmartimages.com/seo/Open-Box-Dell-Inspiron-5410-AIO-23-8-FHD-i7-1255U-16-256GB-1TB-I5410-7089WHT-PUS-WHITE_258973e0-9b4a-4653-8aa3-fb3e47d650b2.2e277c3017f468f0dce4a1ef85d1153d.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Dell Precision T3660 Intel i7-12700K",
+            "price": "1,939.00",
+            "desc": "",
+            "image": "https://rootitsupport.com/userfiles/precision-t3660-2.png"
+        }
+    ]
+}

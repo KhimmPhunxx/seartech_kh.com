@@ -10,22 +10,22 @@ import { RiComputerFill } from "react-icons/ri";
 function NavigationBar() {
   return (
     <div className='hidden lg:block'>
-       <div className='max-w-7xl mx-auto bg-gray-200 dark:text-gray-100 dark:bg-gray-900 dark:border dark:border-gray-900 flex justify-between rounded border'>
+       <div className='max-w-7xl mx-auto bg-gray-200 dark:text-gray-100 dark:bg-gray-900 dark:border dark:border-gray-900 flex justify-between rounded'>
        {/* <NavLink to='' className={({isActive})=> isActive ? 'menubar_active font-[400] text-[#615EAB] text-[16px] relative px-2' : "pop menubar hover:text-[#615EAB] font-[400] text-gray-700 text-[16px] relative px-2 dark:text-white"} >Home</NavLink> */}
             <div className='w-[20%]'>
-                <NavLink className={({isActive})=> isActive ? "flex pop p-4 w-full border border-red-500 rounded justify-center text-xl font-medium": "flex p-4 w-full rounded justify-center text-xl font-medium " } to='/laptop'> <IoMdLaptop className='text-2xl mt-1/2 mr-2' /> Laptop</NavLink>
+                <NavLink className={({isActive})=> isActive ? "flex pop p-4 w-full bg-pink-300 rounded justify-center text-xl font-medium": "flex p-4 w-full rounded justify-center text-xl font-medium " } to='/laptop'> <IoMdLaptop className='text-2xl mt-1/2 mr-2' /> Laptop</NavLink>
             </div>
             <div className='w-[20%]'>
-                <NavLink className={({isActive})=> isActive ? "flex p-4 border border-red-500  rounded justify-center text-xl font-medium": "flex p-4 rounded justify-center text-xl font-medium" } to='/pc_hardware'> <FaComputer className='text-2xl mt-1/2 mr-2' /> PC Hardware</NavLink>
+                <NavLink className={({isActive})=> isActive ? "flex p-4 bg-pink-300  rounded justify-center text-xl font-medium": "flex p-4 rounded justify-center text-xl font-medium" } to='/pc_hardware'> <FaComputer className='text-2xl mt-1/2 mr-2' /> PC Hardware</NavLink>
             </div>
             <div className='w-[20%]'>
-                <NavLink className={({isActive})=> isActive ? "flex p-4 border border-red-500 rounded justify-center text-xl font-medium": "flex p-4 rounded justify-center text-xl font-medium" } to='/accessory'> <BsFillUsbPlugFill className='text-2xl mt-1/2 mr-2' /> Accessories</NavLink>
+                <NavLink className={({isActive})=> isActive ? "flex p-4 bg-pink-300 rounded justify-center text-xl font-medium": "flex p-4 rounded justify-center text-xl font-medium" } to='/accessory'> <BsFillUsbPlugFill className='text-2xl mt-1/2 mr-2' /> Accessories</NavLink>
             </div>
             <div className='w-[20%]'>
-                <NavLink className={({isActive})=> isActive ? "flex p-4 border border-red-500  rounded justify-center text-xl font-medium": "flex p-4 rounded justify-center text-xl font-medium" } to='/peripherals'> <FaKeyboard className='text-2xl mt-1/2 mr-2' /> Peripherals</NavLink>
+                <NavLink className={({isActive})=> isActive ? "flex p-4 bg-pink-300 rounded justify-center text-xl font-medium": "flex p-4 rounded justify-center text-xl font-medium" } to='/peripherals'> <FaKeyboard className='text-2xl mt-1/2 mr-2' /> Peripherals</NavLink>
             </div>
             <div className='w-[20%]'>
-                <NavLink className={({isActive})=> isActive ? "flex p-4 border border-red-500  rounded justify-center text-xl font-medium": "flex p-4 rounded justify-center text-xl font-medium" } to='/pc_set'> <RiComputerFill className='text-2xl mt-1/2 mr-2' /> PC Sets</NavLink>
+                <NavLink className={({isActive})=> isActive ? "flex p-4 bg-pink-300 rounded justify-center text-xl font-medium": "flex p-4 rounded justify-center text-xl font-medium" } to='/pc_set'> <RiComputerFill className='text-2xl mt-1/2 mr-2' /> PC Sets</NavLink>
             </div>
        </div>
     </div>
