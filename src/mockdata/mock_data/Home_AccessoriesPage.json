@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Orico DDNV-C3 Dual Protocol M.2 SATA/ NVMe SSD Type C Enclosure 10Gbps",
+            "desc": "",
+            "price": "30.00",
+            "images": "https://cdn.webshopapp.com/shops/172646/files/424595576/600x600x1/orico-dual-protocol-ssd-enclosure-10gbps-m2-nvme-a.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Orico 40W 5 Port USB Smart Charging Station with Phone & Tablet Stand - DUK-5P",
+            "desc": "",
+            "price": "20.00",
+            "images": "https://tkcustomcomputer.com/assets/uploads/5ee91d5194811ca14a31601aa2739824.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Synology 4-Bay DiskStation DS423+",
+            "desc": "",
+            "price": "550.00",
+            "images": "https://m.media-amazon.com/images/I/61XGUGVUZ8L.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Synology HAT3300-4T [4TB 3.5 SATA 5,400rpm / NAS Grade HDD (MTTF 1 Million Hours)",
+            "desc": "",
+            "price": "130.00",
+            "images": "https://www.synology.com/img/products/detail/HAT5300/heading.png"
+        }
+    ]
+}
