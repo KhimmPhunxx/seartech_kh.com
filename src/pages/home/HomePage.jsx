@@ -12,16 +12,16 @@ import FooterBar from '../../components/layout/footer';
 
 function HomePage() {
   return (
-    <div>
+    <div className='pb-10'>
         <main className='mt-1'>
           <section>
             <HeroSectioPage />
           </section>
-          <section className='mt-10'>
+          <section className='mt-10 px-5 lg:px-0'>
             <HomeCategory />
           </section>
           <section className='mt-10 '>
-            <div className='flex justify-between border-b pb-2'>
+            <div className='flex justify-between border-b pb-2 px-5 md:px-0'>
               <div className=' text-gray-600 flex space-x-3'>
                 <IoLaptopOutline className='text-3xl'/> 
                 <h1 className='text-xl font-medium'>
@@ -41,7 +41,7 @@ function HomePage() {
 
           </section>
           <section className='mt-10'>
-            <div className='flex justify-between border-b pb-2'>
+            <div className='flex justify-between border-b pb-2 px-5 lg:px-0'>
                 <div className=' text-gray-600 flex space-x-3'>
                   <FaComputer className='text-3xl'/> 
                   <h1 className='text-xl font-medium'>

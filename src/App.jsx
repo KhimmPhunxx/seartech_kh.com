@@ -5,6 +5,7 @@ import { BrowserRouter,Route, Routes } from 'react-router-dom'
 import HomePage from './pages/home/HomePage'
 import LaptopPage from './pages/laptop/LaptopPage'
 import PC_Hardware from './pages/pc_hardware/PC_Hardware'
+import ContactPage from './pages/contact/ContactPage'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path='' element={<HomePage/>} />
           <Route path='laptop' element={<LaptopPage/>} />
           <Route path='pc_hardware' element={<PC_Hardware/>} />
+          <Route path='contact' element={<ContactPage/>} />
   
         </Route>
       </Routes>

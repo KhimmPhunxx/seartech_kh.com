@@ -5,7 +5,7 @@ import mock_data from './home_cate.json'
 function HomeCategory() {
   return (
     <div>
-      <div className='flex justify-between py-2 space-x-4'>
+      <div className='flex flex-wrap justify-between py-2'>
       {
         mock_data.data.map((item, index) => {
           return (

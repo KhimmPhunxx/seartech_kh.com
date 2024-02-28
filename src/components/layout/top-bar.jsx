@@ -7,7 +7,7 @@ import { NavLink } from 'react-router-dom';
 function TopBar() {
   return (
     <div className='flex justify-between max-w-7xl mx-auto'>
-      <div className='flex space-x-3'>
+      <div className='space-x-3 hidden md:flex'>
         <p className='flex text-gray-800 dark:text-white'><IoMdCall className='text-xl mr-2 mt-[2px] text-gray-700 dark:text-white'/> 097948234</p>
         <p className='flex text-gray-800 dark:text-white'><IoMdMail className='text-xl mr-2 mt-[2px] text-gray-700 dark:text-white'/> example@gmail.com</p>
       </div>

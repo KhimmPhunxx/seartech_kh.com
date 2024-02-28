@@ -13,13 +13,13 @@ function Layout() {
             <nav className='bg-gray-100 dark:bg-gray-900 p-3 w-full'>
                 <TopBar />
             </nav>
-            <nav className='bg-white mx-auto dark:bg-gray-800 p-3 w-full'>
-                <section className='mx-auto max-w-7xl flex justify-between'>
-                    <LogoText />  
-                    <ButtonAction />
-                </section>
-            </nav>
         </header>
+        <nav className='bg-white z-40 border-b md:border-0 mx-auto dark:bg-gray-800 p-3 w-full sticky lg:static top-0'>
+            <section className='mx-auto max-w-7xl flex justify-between'>
+                <LogoText />  
+                <ButtonAction />
+            </section>
+        </nav>
         <nav className='sticky top-0 z-50'>
             <NavigationBar />
         </nav>

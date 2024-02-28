@@ -14,17 +14,17 @@ const onClickHeart = (e) => {
 
 function Home_PC_Hardware() {
   return (
-    <div className='grid grid-cols-4 gap-8'>
+    <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-8 px-5 lg:px-0'>
     {
             data.data.map((item, index) => {
                 return (
-                    <div key={index} className='cart-item relative border py-5 p-5 shadow rounded-lg cursor-pointer overflow-hidden' data-aos='fade-up'>
-                        <div className='icon-heart absolute top-8 duration-300 space-y-2'>
+                    <div key={index} className='cart-item bg-white relative border py-5 p-5 shadow rounded-lg cursor-pointer overflow-hidden' data-aos='fade-up'>
+                        <div className='icon-heart absolute top-8 duration-300 space-y-2 z-30'>
                             <IoMdHeart onClick={onClickHeart} className='text-2xl icon text-gray-500 duration-200' />
                             <FaEye className='text-2xl icon text-gray-500 duration-200' />
                         </div>
-                        <div className='mx-auto w-[92%] relative'>
-                            <div className='h-44 hover:scale-105 duration-300'>
+                        <div className='mx-auto h-56 md:h-56 lg:h-48 w-[90%] relative'>
+                            <div className='lg:h-44 w-full h-56 hover:scale-105 mx-auto duration-300 items-center justify-center'>
                                 <img className='
                                 w-full
                                 h-full
