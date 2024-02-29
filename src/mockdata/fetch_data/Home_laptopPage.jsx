@@ -21,9 +21,9 @@ function Home_laptopPage() {
             data.data.map((item, index) => {
                 return (
                     <div key={index} className='cart-item relative bg-white border p-2 md:py-5 md:p-5 shadow rounded-lg cursor-pointer overflow-hidden' data-aos='fade-up'>
-                         <div className='icon-heart absolute top-8 duration-300 space-y-2 z-30 hidden md:block'>
-                            <IoMdHeart onClick={onClickHeart} className='text-2xl icon text-gray-500 duration-200' />
-                            <FaEye className='text-2xl icon text-gray-500 duration-200' />
+                         <div className='icon-heart absolute top-8 duration-300 space-y-2 z-30'>
+                            <IoMdHeart onClick={onClickHeart} className='text-2xl icon text-gray-500 duration-200 hidden md:block' />
+                            <FaEye className='text-2xl icon text-gray-500 duration-200 hidden md:block' />
                         </div>
                         <div className='mx-auto h-20 md:h-56 lg:h-48 w-[90%] relative'>
                             <div className='h12 lg:h-44 w-full md:h-56 hover:scale-105 mx-auto duration-300 items-center justify-center'>
