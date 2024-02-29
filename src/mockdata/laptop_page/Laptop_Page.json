@@ -264,5 +264,139 @@
             ],
             "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
         }
+    ],
+    "asus_zen_book": [
+        {
+            "id" : 1,
+            "name" : "ASUS Zenbook 14",
+            "desc" : "ASUS Zenbook 14 UX425EA-KI701TS",
+            "price" : 999.00,
+            "cpu" : "Intel® Core™ i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)",
+            "ram" : "16GB LPDDR4X on board",
+            "storage" : "512GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® Iris Xe Graphics",
+            "display" : "14-inch, FHD (1920 x 1080) 16:9",
+            "keyboard" : "Backlit Chiclet Keyboard",
+            "os" : "Windows 10 Home",
+            "weigh" : "1.13 KG | Pine Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://dlcdnwebimgs.asus.com/gain/838fbdac-6d10-4190-8e52-d4b9463f5d23/"
+        },
+        {
+            "id" : 2,
+            "name" : "ASUS Zenbook 14",
+            "desc" : "ASUS Zenbook 14 UX425EA-KI701TS",
+            "price" : 999.00,
+            "cpu" : "Intel® Core™ i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)",
+            "ram" : "16GB LPDDR4X on board",
+            "storage" : "512GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® Iris Xe Graphics",
+            "display" : "14-inch, FHD (1920 x 1080) 16:9",
+            "keyboard" : "Backlit Chiclet Keyboard",
+            "os" : "Windows 10 Home",
+            "weigh" : "1.13 KG | Pine Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://dlcdnwebimgs.asus.com/gain/838fbdac-6d10-4190-8e52-d4b9463f5d23/g"
+        },
+        {
+            "id" : 3,
+            "name" : "ASUS Zenbook 14",
+            "desc" : "ASUS Zenbook 14 UX425EA-KI701TS",
+            "price" : 999.00,
+            "cpu" : "Intel® Core™ i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)",
+            "ram" : "16GB LPDDR4X on board",
+            "storage" : "512GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® Iris Xe Graphics",
+            "display" : "14-inch, FHD (1920 x 1080) 16:9",
+            "keyboard" : "Backlit Chiclet Keyboard",
+            "os" : "Windows 10 Home",
+            "weigh" : "1.13 KG | Pine Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://dlcdnwebimgs.asus.com/gain/838fbdac-6d10-4190-8e52-d4b9463f5d23/"
+        },
+        {
+            "id" : 4,
+            "name" : "ASUS Zenbook 14",
+            "desc" : "ASUS Zenbook 14 UX425EA-KI701TS",
+            "price" : 999.00,
+            "cpu" : "Intel® Core™ i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)",
+            "ram" : "16GB LPDDR4X on board",
+            "storage" : "512GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® Iris Xe Graphics",
+            "display" : "14-inch, FHD (1920 x 1080) 16:9",
+            "keyboard" : "Backlit Chiclet Keyboard",
+            "os" : "Windows 10 Home",
+            "weigh" : "1.13 KG | Pine Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://dlcdnwebimgs.asus.com/gain/838fbdac-6d10-4190-8e52-d4b9463f5d23/"
+        } ,
+        {
+            "id" : 5,
+            "name" : "ASUS Zenbook 14",
+            "desc" : "ASUS Zenbook 14 UX425EA-KI701TS",
+            "price" : 999.00,
+            "cpu" : "Intel® Core™ i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)",
+            "ram" : "16GB LPDDR4X on board",
+            "storage" : "512GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® Iris Xe Graphics",
+            "display" : "14-inch, FHD (1920 x 1080) 16:9",
+            "keyboard" : "Backlit Chiclet Keyboard",
+            "os" : "Windows 10 Home",
+            "weigh" : "1.13 KG | Pine Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://dlcdnwebimgs.asus.com/gain/838fbdac-6d10-4190-8e52-d4b9463f5d23/"
+        },
+        {
+            "id" : 6,
+            "name" : "ASUS Zenbook 14",
+            "desc" : "ASUS Zenbook 14 UX425EA-KI701TS",
+            "price" : 999.00,
+            "cpu" : "Intel® Core™ i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)",
+            "ram" : "16GB LPDDR4X on board",
+            "storage" : "512GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® Iris Xe Graphics",
+            "display" : "14-inch, FHD (1920 x 1080) 16:9",
+            "keyboard" : "Backlit Chiclet Keyboard",
+            "os" : "Windows 10 Home",
+            "weigh" : "1.13 KG | Pine Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://dlcdnwebimgs.asus.com/gain/838fbdac-6d10-4190-8e52-d4b9463f5d23/"
+        }
     ]
 }

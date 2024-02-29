@@ -1,10 +1,13 @@
 import React from 'react'
+import PC_Hardware_Page from '../../mockdata/pc_hardware_page/PC_Hardware_Page'
 
 function PC_Hardware() {
   return (
-    <div>
-      
-    </div>
+    <main className='mt-2'>
+      <section>
+        <PC_Hardware_Page />
+      </section>
+    </main>
   )
 }
 

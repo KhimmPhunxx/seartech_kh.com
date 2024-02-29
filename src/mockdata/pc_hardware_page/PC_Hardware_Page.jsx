@@ -1,28 +1,27 @@
 import React from 'react'
 
-import category_data from './Laptop_category.json'
-import Asus_ViviBook from './Asus_ViviBook'
-import Asus_ZenBook from './Asus_ZenBook'
+import category_data from './PC_Hardware.json'
+import CPU from './CPU'
 
-function Laptop_Page() {
+function PC_Hardware_Page() {
   return (
     <main>
         <section className='flex justify-between w-full'>
-            <div className='w-[20%] sticky top-16 h-[1200px]'>
+            <div className='w-[15%] sticky top-16 h-[900px]'>
                 <h1 className='text-2xl font-bold text-red-500'>Brand Name</h1>
                 {
-                    category_data.laptop_category.map((item, index) => {
+                    category_data.data_cate_hardware.map((item, index) => {
                         return (
                             <div key={index} className='w-full border-b'>
-                              <div className='w-[60%] mx-auto h-20 p-5'>
-                                 <img src={item.image} alt="" 
-                                 className='
+                            <div className='w-[60%] mx-auto h-20 p-5'>
+                                <img src={item.image} alt="" 
+                                className='
                                     w-full
                                     h-full
                                     object-cover
                                     cursor-pointer
-                                 ' />
-                              </div>
+                                ' />
+                            </div>
                             </div>
                         )
                     })
@@ -38,16 +37,15 @@ function Laptop_Page() {
                     '
                     style={{backgroundImage: `url('https://cdn.shopify.com/s/files/1/0355/8296/7943/files/asus-vivobook-promo.jpg?v=1646992927')`}}
                     >
-                        <div className='w-full l bg-gradient-to-r flex space-x-4 from-gray-600 to-gray-0 rounded-lg overflow-hidden p-5'>
-                        <div className='h-full w-32 border-r pr-2'>
-                            <img className='h-full w-full object-cover' src="https://upload.wikimedia.org/wikipedia/commons/d/de/AsusTek-black-logo.png" alt="" />
+                        <div className='w-full bg-gradient-to-r flex space-x-4 from-gray-600 to-gray-0 rounded-lg overflow-hidden p-5'>
+                        <div className='h-8 w-12 border-r pr-2'>
+                            <img className='h-full w-full object-cover rounded' src="https://cdn-icons-png.freepik.com/512/4617/4617522.png" alt="" />
                         </div>
-                        <h1 className='text-3xl text-gray-100 font-medium'>ASUS</h1>
+                        <h1 className='text-3xl text-gray-100 font-medium'>CPU</h1>
                         </div>
                     </div>
                     <div className='mt-2'>
-                    <Asus_ViviBook />
-                    
+                        <CPU />
                     </div>
                 </div>
                 <div>
@@ -66,7 +64,7 @@ function Laptop_Page() {
                         </div>
                     </div>
                     <div className='mt-2'>
-                    <Asus_ZenBook />
+                   
                     
                     </div>
                 </div>
@@ -76,4 +74,4 @@ function Laptop_Page() {
   )
 }
 
-export default Laptop_Page
+export default PC_Hardware_Page

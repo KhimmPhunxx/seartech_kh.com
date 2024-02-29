@@ -1,0 +1,54 @@
+{
+    "data_cate_hardware": [
+        {
+            "id": 1,
+            "name": "Cpu",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "RAM",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "PSU",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Coolor",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Intel",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        },
+        {
+            "id": 6,
+            "name": "AMD",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        },
+        {
+            "id": 7,
+            "name": "GPU",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Storage",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Case",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Monitor",
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+        }
+    ]
+}

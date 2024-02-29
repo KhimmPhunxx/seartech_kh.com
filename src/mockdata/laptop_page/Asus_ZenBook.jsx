@@ -1,20 +1,18 @@
 import React from 'react'
 
-import asus_vivobook from './Laptop_Page.json'
+import asus_zen_book from './Laptop_Page.json'
 
-function Asus_ViviBook() {
-
+function Asus_ZenBook() {
   return (
-    <main>
-        <div className='grid grid-cols-3 gap-1'>
-            {
-                asus_vivobook.asus_vivo_book.map((item, index) => {
-                    return (
-                        <div key={index} className='w-full p-5 border pb-5 cursor-pointer'>
-                            <div className='w-[90%] h-44 mx-auto border-b'>
-                                <img src={item.img} alt="" className='w-full h-full object-cover hover:scale-105 duration-200' />
-                            </div>
-                           <div className='space-y-2 mt-2 '>
+    <div className='grid grid-cols-3 gap-1'>
+        {
+            asus_zen_book.asus_zen_book.map((item, index) => {
+                return (
+                    <div key={index} className='w-full p-5 border pb-5 cursor-pointer'>
+                        <div className='w-[90%] h-44 mx-auto border-b'>
+                            <img src={item.img} alt="" className='w-full h-full object-cover hover:scale-105 duration-200' />
+                        </div>
+                        <div className='space-y-2 mt-2 '>
                                 <h1 className='text-lg text-center font-bold'>{item.name}</h1>
                                 <p className='text-2xl text-center text-red-500 font-bold'>${item.price}</p>
                                 <h1 className='text-xs text-center'>{item.desc}</h1>
@@ -30,22 +28,21 @@ function Asus_ViviBook() {
                                     <h1 className='text-xs'>• {item.warranty}</h1>
                                     <h1 className='text-xs'>• {item.warranty2}</h1>
                                 </div>
-                           </div>
-                           <div className='mt-3'>
-                             <h1 className='text-red-500 font-bold text-xl'>Free</h1>
-                             <div className='px-3'>
+                        </div>
+                        <div className='mt-3'>
+                            <h1 className='text-red-500 font-bold text-xl'>Free</h1>
+                            <div className='px-3'>
                                 <h1 className='text-xs'>• {item.free[0]}</h1>
                                 <h1 className='text-xs'>• {item.free[1]}</h1>
                                 <h1 className='text-xs'>• {item.free[2]}</h1>
-                             </div>
-                           </div>
+                            </div>
                         </div>
-                    )
-                })
-            }
-        </div>
-    </main>
+                    </div>
+                )
+            })
+        }
+    </div>
   )
 }
 
-export default Asus_ViviBook
+export default Asus_ZenBook

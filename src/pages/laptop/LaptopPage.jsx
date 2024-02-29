@@ -6,8 +6,7 @@ function LaptopPage() {
     <main className='pb-10'>
       <section className='mt-2'>
         <Laptop_Page />
-      </section>
-        
+      </section> 
     </main>
   )
 }

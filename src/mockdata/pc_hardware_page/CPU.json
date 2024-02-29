@@ -1,0 +1,83 @@
+{
+    "cpu": [
+        {
+            "id" : 1,
+            "name" : "14th Intel® (Pricing Set)",
+            "spec1" : "Intel® Core™ i9 14900K (24Cores,32Threads,6Ghz)",
+            "spec2" : "Intel® Core™ i9 14900KF (24Cores,32Threads,6Ghz)",
+            "spec3" : "Intel® Core™ i7 14700K (20Cores,28Threads) ",
+            "spec4" : "Intel® Core™ i7 14700KF    (20Cores,28Threads) ",
+            "price1" : "599.00",
+            "price2" : "619.00",
+            "price3" : "429.00",
+            "price4" : " 439.00",
+            "image" : "https://www.pcstudio.in/wp-content/uploads/2023/10/Intel-Core-i9-14900KF-14th-Gen-Desktop-Processor-1.jpg"
+
+        },
+        {
+            "id" : 2,
+            "name" : "13th Intel® (Pricing Set)",
+            "spec1" : "Intel® Core™ i9 12900K (16Cores,24Threads,5Ghz)",
+            "spec2" : "Intel® Core™ i9 12900KF (16Cores,24Threads,5Ghz)",
+            "spec3" : "Intel® Core™ i7 12700K (12Cores,20Threads) ",
+            "spec4" : "Intel® Core™ i7 12700KF    (12Cores,20Threads) ",
+            "price1" : "499.00",
+            "price2" : "519.00",
+            "price3" : "349.00",
+            "price4" : " 359.00",
+           "image" : "https://www.pcstudio.in/wp-content/uploads/2023/10/Intel-Core-i9-14900KF-14th-Gen-Desktop-Processor-1.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "12th Intel® (Pricing Set)",
+            "spec1" : "Intel® Core™ i9 12900K (16Cores,24Threads,5Ghz)",
+            "spec2" : "Intel® Core™ i9 12900KF (16Cores,24Threads,5Ghz)",
+            "spec3" : "Intel® Core™ i7 12700K (12Cores,20Threads) ",
+            "spec4" : "Intel® Core™ i7 12700KF    (12Cores,20Threads) ",
+            "price1" : "499.00",
+            "price2" : "519.00",
+            "price3" : "349.00",
+            "price4" : " 359.00",
+           "image" : "https://www.pcstudio.in/wp-content/uploads/2023/10/Intel-Core-i9-14900KF-14th-Gen-Desktop-Processor-1.jpg"
+        },
+        {
+            "id" : 4,
+            "name" : "11th Intel® (Pricing Set)",
+            "spec1" : "Intel® Core™ i9 11900K (8Cores,16Threads,5.3Ghz)",
+            "spec2" : "Intel® Core™ i9 11900KF (8Cores,16Threads,5.3Ghz)",
+            "spec3" : "Intel® Core™ i7 11700K (8Cores,16Threads) ",
+            "spec4" : "Intel® Core™ i7 11700KF    (8Cores,16Threads) ",
+            "price1" : "399.00",
+            "price2" : "419.00",
+            "price3" : "299.00",
+            "price4" : " 309.00",
+            "image" : "https://www.pcstudio.in/wp-content/uploads/2023/10/Intel-Core-i9-14900KF-14th-Gen-Desktop-Processor-1.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "10th Intel® (Pricing Set)",
+            "spec1" : "Intel® Core™ i9 10900K (10Cores,20Threads,5.3Ghz)",
+            "spec2" : "Intel® Core™ i9 10900KF (10Cores,20Threads,5.3Ghz)",
+            "spec3" : "Intel® Core™ i7 10700K (8Cores,16Threads) ",
+            "spec4" : "Intel® Core™ i7 10700KF    (8Cores,16Threads) ",
+            "price1" : "399.00",
+            "price2" : "419.00",
+            "price3" : "299.00",
+            "price4" : " 309.00",
+            "image" : "https://www.pcstudio.in/wp-content/uploads/2023/10/Intel-Core-i9-14900KF-14th-Gen-Desktop-Processor-1.jpg"
+        },
+        {
+            "id" : 6,
+            "name" : "9th Intel® (Pricing Set)",
+            "spec1" : "Intel® Core™ i9 9900K (8Cores,16Threads,5Ghz)",
+            "spec2" : "Intel® Core™ i9 9900KF (8Cores,16Threads,5Ghz)",
+            "spec3" : "Intel® Core™ i7 9700K (8Cores,8Threads) ",
+            "spec4" : "Intel® Core™ i7 9700KF    (8Cores,8Threads) ",
+            "price1" : "399.00",
+            "price2" : "419.00",
+            "price3" : "299.00",
+            "price4" : " 309.00",
+            "image" : "https://www.pcstudio.in/wp-content/uploads/2023/10/Intel-Core-i9-14900KF-14th-Gen-Desktop-Processor-1.jpg"
+        }
+    ]
+}
