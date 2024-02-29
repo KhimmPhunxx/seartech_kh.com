@@ -19,11 +19,11 @@ function Layout() {
             width='20px'
          />
         <header className='z-50'>
-            <nav className='bg-gray-100 dark:bg-gray-900 p-3 w-full'>
+            <nav className='bg-gray-100 p-3 w-full'>
                 <TopBar />
             </nav>
         </header>
-        <nav className='bg-white border-b md:border-0 mx-auto dark:bg-gray-800 px-10 md:px-0 p-1 md:p-3 w-full top-0'>
+        <nav className='bg-white border-b md:border-0 mx-auto px-10 md:px-0 p-1 md:p-3 w-full top-0'>
             <section className='mx-auto max-w-7xl flex justify-between'>
                 <LogoText />  
                 <ButtonAction />
