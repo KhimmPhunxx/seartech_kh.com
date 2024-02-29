@@ -5,16 +5,25 @@ import TopBar from './top-bar'
 import ButtonAction from './button-action'
 import NavigationBar from './navigation-bar'
 import FooterBar from './footer'
+import ScrollToTop from 'react-scroll-to-top'
 
 function Layout() {
   return (
     <>
+        <ScrollToTop 
+            smooth 
+            style={{backgroundColor: '#615EAB', width: '40px', height: '40px', borderRadius: '50%', boxShadow: '2px 2px 10px 2px rgba(255,255,255,0.5)', fontSize: '10px', color: '#ffff' , padding: '10px'}}
+            top={200}
+            color='#ffff'
+            height='20px'
+            width='20px'
+         />
         <header className='z-50'>
             <nav className='bg-gray-100 dark:bg-gray-900 p-3 w-full'>
                 <TopBar />
             </nav>
         </header>
-        <nav className='bg-white z-40 border-b md:border-0 mx-auto dark:bg-gray-800 p-3 w-full sticky lg:static top-0'>
+        <nav className='bg-white border-b md:border-0 mx-auto dark:bg-gray-800 px-10 md:px-0 p-1 md:p-3 w-full top-0'>
             <section className='mx-auto max-w-7xl flex justify-between'>
                 <LogoText />  
                 <ButtonAction />

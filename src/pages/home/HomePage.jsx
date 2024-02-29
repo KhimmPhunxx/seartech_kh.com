@@ -19,21 +19,21 @@ function HomePage() {
           <section>
             <HeroSectioPage />
           </section>
-          <section className='mt-10 px-5 lg:px-0'>
+          <section className='mt-3 md:mt-10 px-5 lg:px-0'>
             <HomeCategory />
           </section>
-          <section className='mt-10 '>
-            <div className='flex justify-between border-b pb-2 px-5 md:px-0'>
+          <section className='mt-3 md:mt-10 '>
+            <div className='flex justify-between border-b pb-1 md:pb-2 px-5 md:px-0'>
               <div className=' text-gray-600 flex space-x-3'>
-                <IoLaptopOutline className='text-3xl'/> 
-                <h1 className='text-xl font-medium'>
+                <IoLaptopOutline className='text-lg md:text-3xl'/> 
+                <h1 className='text-sm md:text-xl font-medium'>
                   Laptop
                 </h1>
               </div>
               <div>
                   <NavLink to={'/laptop'} className={'flex space-x-2 duration-200 rounded-sm px-2 hover:underline'}>
-                    <h1 className='text-xl text-gray-600'>More</h1>
-                    <BsArrowRight className='text-2xl mt-[3px]'/> 
+                    <h1 className='text-sm md:text-xl text-gray-600'>More</h1>
+                    <BsArrowRight className='text-sm md:text-2xl mt-[3px]'/> 
                   </NavLink>
               </div>
             </div>
@@ -43,18 +43,18 @@ function HomePage() {
 
           </section>
           <section className='mt-10'>
-            <div className='flex justify-between border-b pb-2 px-5 lg:px-0'>
+            <div className='flex justify-between border-b pb-1 md:pb-2 px-5 md:px-0'>
                 <div className=' text-gray-600 flex space-x-3'>
-                  <FaComputer className='text-3xl'/> 
-                  <h1 className='text-xl font-medium'>
+                  <FaComputer className='text-lg md:text-3xl'/> 
+                  <h1 className='text-sm md:text-xl font-medium'>
                     PC Hardware
                   </h1>
                 </div>
                 <div>
-                    <NavLink to={'/pc_hardware'} className={'flex space-x-2 duration-200 rounded-sm px-2 hover:underline'}>
-                      <h1 className='text-xl text-gray-600'>More</h1>
-                      <BsArrowRight className='text-2xl mt-[3px]'/> 
-                    </NavLink>
+                  <NavLink to={'/laptop'} className={'flex space-x-2 duration-200 rounded-sm px-2 hover:underline'}>
+                    <h1 className='text-sm md:text-xl text-gray-600'>More</h1>
+                    <BsArrowRight className='text-sm md:text-2xl mt-[3px]'/> 
+                  </NavLink>
                 </div>
               </div>
               <div className='mt-5'>
@@ -63,39 +63,38 @@ function HomePage() {
           </section>
 
           <section className='mt-10'>
-          <div className='flex justify-between border-b pb-2 px-5 lg:px-0'>
+              <div className='flex justify-between border-b pb-1 md:pb-2 px-5 md:px-0'>
                 <div className=' text-gray-600 flex space-x-3'>
-                  <BsUsbPlug className='text-3xl'/> 
-                  <h1 className='text-xl font-medium'>
+                  <BsUsbPlug className='text-lg md:text-3xl'/> 
+                  <h1 className='text-sm md:text-xl font-medium'>
                      Accessories
                   </h1>
                 </div>
                 <div>
-                    <NavLink to={'/pc_hardware'} className={'flex space-x-2 duration-200 rounded-sm px-2 hover:underline'}>
-                      <h1 className='text-xl text-gray-600'>More</h1>
-                      <BsArrowRight className='text-2xl mt-[3px]'/> 
-                    </NavLink>
+                  <NavLink to={'/laptop'} className={'flex space-x-2 duration-200 rounded-sm px-2 hover:underline'}>
+                    <h1 className='text-sm md:text-xl text-gray-600'>More</h1>
+                    <BsArrowRight className='text-sm md:text-2xl mt-[3px]'/> 
+                  </NavLink>
                 </div>
               </div>
               <div className='mt-5'>
                 <Home_AccessoriesPage />
               </div>
-
           </section>
 
           <section className='mt-10'>
-            <div className='flex justify-between border-b pb-2 px-5 lg:px-0'>
+            <div className='flex justify-between border-b pb-1 md:pb-2 px-5 md:px-0'>
                 <div className=' text-gray-600 flex space-x-3'>
-                  <BsMouse3 className='text-3xl'/> 
-                  <h1 className='text-xl font-medium'>
+                  <BsMouse3 className='text-lg md:text-3xl'/> 
+                  <h1 className='text-sm md:text-xl font-medium'>
                     Peripherals
                   </h1>
                 </div>
                 <div>
-                    <NavLink to={'/pc_hardware'} className={`flex space-x-2 duration-200 rounded-sm px-2 hover:underline`}>
-                      <h1 className='text-xl text-gray-600'>More</h1>
-                      <BsArrowRight className='text-2xl mt-[3px]'/> 
-                    </NavLink>
+                  <NavLink to={'/laptop'} className={'flex space-x-2 duration-200 rounded-sm px-2 hover:underline'}>
+                    <h1 className='text-sm md:text-xl text-gray-600'>More</h1>
+                    <BsArrowRight className='text-sm md:text-2xl mt-[3px]'/> 
+                  </NavLink>
                 </div>
               </div>
               <div className='mt-5'>
@@ -104,18 +103,18 @@ function HomePage() {
           </section>
 
           <section className='mt-10'>
-            <div className='flex justify-between border-b pb-2 px-5 lg:px-0'>
+            <div className='flex justify-between border-b pb-1 md:pb-2 px-5 md:px-0'>
                 <div className=' text-gray-600 flex space-x-3'>
-                  <RiComputerFill className='text-3xl'/> 
-                  <h1 className='text-xl font-medium'>
+                  <RiComputerFill className='text-lg md:text-3xl'/> 
+                  <h1 className='text-sm md:text-xl font-medium'>
                     PC Sets
                   </h1>
                 </div>
                 <div>
-                    <NavLink to={'/pc_hardware'} className={`flex space-x-2 duration-200 rounded-sm px-2 hover:underline`}>
-                      <h1 className='text-xl text-gray-600'>More</h1>
-                      <BsArrowRight className='text-2xl mt-[3px]'/> 
-                    </NavLink>
+                  <NavLink to={'/laptop'} className={'flex space-x-2 duration-200 rounded-sm px-2 hover:underline'}>
+                    <h1 className='text-sm md:text-xl text-gray-600'>More</h1>
+                    <BsArrowRight className='text-sm md:text-2xl mt-[3px]'/> 
+                  </NavLink>  
                 </div>
               </div>
               <div className='mt-5'>

@@ -21,8 +21,8 @@ function ButtonAction() {
     <div className='flex space-x-2'>
       <button 
       onClick={()=> navigate("./contact")} 
-      className='py-1 px-3 rounded-md bg-red-500 text-md hover:bg-red-600 font-medium text-gray-100 duration-200 '>Conact</button>
-      <button onClick={showDrawer} className='hover:bg-gray-100 duration-300 px-2 rounded lg:hidden'>
+      className='md:py-1 px-1 md:px-3 rounded-md bg-red-500 text-xs md:text-lg hover:bg-red-600 font-medium text-gray-100 duration-200 '>Conact</button>
+      <button onClick={showDrawer} className='hover:bg-gray-100 duration-300 px-2 rounded hidden'>
         <HiOutlineMenu className='text-2xl text-gray-700' />
       </button>
       <Drawer title="SearTechKH" onClose={onClose} open={open}>
