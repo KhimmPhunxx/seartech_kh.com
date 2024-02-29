@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom';
 
 function FooterBar() {
   return (
-    <footer className=' -full bg-black py-5'>  
+    <footer className=' -full bg-black py-5 z-50'>  
       <section className='max-w-7xl mx-auto h-full py-6 border-b px-5'>
           <h1 className='text-2xl font-bold text-gray-100  '>SearTechKh</h1>
           <div className='grid md:grid-cols-3 w-full h-full mt-3 space-y-6 md:space-y-0'>

@@ -1,11 +1,14 @@
 import React from 'react'
-import Fetch_Data_Laptop from '../../mockdata/fetchdata/Fetch_Data_Laptop'
+import Laptop_Page from '../../mockdata/laptop_page/Laptop_Page'
 
 function LaptopPage() {
   return (
-    <div>
+    <main className='pb-10'>
+      <section className='mt-2'>
+        <Laptop_Page />
+      </section>
         
-    </div>
+    </main>
   )
 }
 

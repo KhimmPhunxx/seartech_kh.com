@@ -1,0 +1,74 @@
+{
+    "laptop_category": [
+        {
+            "id": 1,
+            "name": "Asus",
+            "image": "https://logowik.com/content/uploads/images/424_asus.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Asus ZenBook",
+            "image": "https://cackle.co.nz/hardware/wp-content/uploads/sites/3/2020/10/Asus-ZenBook-Logo.png"
+        },
+        {
+            "id": 3,
+            "name": "Tuf Gaming",
+            "image": "https://gadgetpilipinas.net/wp-content/uploads/2021/02/ASUS-TUF-RTX-3060Ti-Review-new-TUF-logo.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Asus ROG Strix",
+            "image": "https://dlcdnwebimgs.asus.com/files/media/28d68e98-d302-4f24-b8f6-af2eb9d4eae4/v1/images/rog-eye.png"
+        },
+        {
+            "id": 5,
+            "name": "msi gaming laptop",
+            "image": "https://logos-world.net/wp-content/uploads/2020/11/MSI-Logo.png"
+        },
+        {
+            "id": 6,
+            "name": "msi normal laptop",
+            "image": "https://1000logos.net/wp-content/uploads/2018/10/MSI-Logo-2020.png"
+        },
+        {
+            "id": 7,
+            "name": "Lenovo",
+            "image": "https://1000logos.net/wp-content/uploads/2017/03/Lenovo-Logo-1.png"
+        },
+        {
+            "id": 8,
+            "name": "Microsoft",
+            "image": "https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png"
+        },
+        {
+            "id": 9,
+            "name": "Samsung",
+            "image": "https://logos-world.net/wp-content/uploads/2020/04/Samsung-Logo.png"
+        },
+        {
+            "id": 10,
+            "name": "Alenware",
+            "image": "https://logos-world.net/wp-content/uploads/2020/05/Alienware-Logo.png"
+        },
+        {
+            "id": 11,
+            "name": "Predator",
+            "image": "https://logos-world.net/wp-content/uploads/2023/05/Acer-Predator-Logo.png"
+        },
+        {
+            "id": 12,
+            "name": "Gigabyte",
+            "image": "https://findvectorlogo.com/wp-content/uploads/2020/02/gigabyte-vector-logo.png"
+        },
+        {
+            "id": 13,
+            "name": "Macbook",
+            "image": "https://www.shutterstock.com/image-vector/chattogram-bangladesh-may-9-2023-600nw-2300365877.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Dell",
+            "image": "https://1000logos.net/wp-content/uploads/2017/07/Dell-Logo-1989.jpg"
+        }
+    ]
+}

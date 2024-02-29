@@ -1,0 +1,268 @@
+{
+    "asus_vivo_book" : [
+        {
+            "id" : 1,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 4,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 6,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 7,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 8,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 9,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 10,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],  
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 11,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        },
+        {
+            "id" : 12,
+            "name" : "ASUS Vivobook X515MA",
+            "desc" : "ASUS Vivobook X515MA-EJ929W-1G-SLATE GREY",
+            "price" : 299.00,
+            "cpu" : "Intel® Celeron® N4020(2.8 GHz, 2 cores",
+            "ram" : "4GB DDR4 3200Mhz",
+            "storage" : "256GB M.2 NVMe™ PCIe® 3.0 SSD",
+            "graphic" : "Intel® UHD Graphics",
+            "display" : "15.6-inch, FHD 60Hz",
+            "keyboard" : "LED White",
+            "os" : "Windows 11 Home License",
+            "weigh" : ".6 KG | Slate Grey",
+            "warranty" : "2 Years hardware ( Motherboard )",
+            "warranty2" : "1 Year for screen, keyboard & battery",
+            "free" : [
+                "Asus Backpack",
+                "Mouse",
+                "Mouse Pad"
+            ],
+            "img" : "https://laymengcomputer.com/wp-content/uploads/2022/01/X515MA.jpg"
+        }
+    ]
+}

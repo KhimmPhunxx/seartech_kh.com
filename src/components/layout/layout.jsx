@@ -35,7 +35,7 @@ function Layout() {
         <main className='max-w-7xl mx-auto'>
             <Outlet />
         </main>
-        <footer>
+        <footer className='z-50'>
             <FooterBar />
         </footer>
 

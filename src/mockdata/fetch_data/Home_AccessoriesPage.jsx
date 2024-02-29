@@ -30,15 +30,15 @@ function Home_AccessoriesPage() {
                         <div className='mx-auto h-20 md:h-56 lg:h-48 w-[90%] relative'>
                             <div className='h12 lg:h-44 w-full md:h-56 hover:scale-105 mx-auto duration-300 items-center justify-center'>
                                 <img className='
-                                w-full
-                                h-full
-                                object-cover
+                                    w-full
+                                    h-full
+                                    object-cover
                                 ' src={item.images} alt="" />
                             </div>
                            
                         </div>
                        <div className='md:px-5 md:mt-5'>
-                            <div className='h-24 md:h-12'>
+                            <div className='h-24 md:h-16'>
                                 <h1 className='text-[8px] md:text-sm pop text-center'>{item.name}</h1>
                             </div>
                             <h1 className='text-[12px] md:text-2xl text-center font-medium text-green-400'>${item.price}</h1>
