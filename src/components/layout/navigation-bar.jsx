@@ -30,7 +30,7 @@ function NavigationBar() {
             </div>
 
             <div className='w-[20%]'>
-                <NavLink className={({isActive})=> isActive ? "flex p-2 md:p-4 bg-[#E9AFAF] rounded justify-center text-[5px] md:text-xl font-medium" : "flex p-2 md:p-4 rounded justify-center text-[5px] md:text-xl font-medium" } to='/pc_set'> <MdShoppingCart className='text-2xl mt-1/2 mr-2 hidden md:block' /> Second Hand</NavLink>
+                <NavLink className={({isActive})=> isActive ? "flex p-2 md:p-4 bg-[#E9AFAF] rounded justify-center text-[5px] md:text-xl font-medium" : "flex p-2 md:p-4 rounded justify-center text-[5px] md:text-xl font-medium" } to='/second_hand'> <MdShoppingCart className='text-2xl mt-1/2 mr-2 hidden md:block' /> Second Hand</NavLink>
             </div>
        </div>
     </div>
