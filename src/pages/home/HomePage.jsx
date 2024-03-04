@@ -14,7 +14,7 @@ import Home_PC_SetsPage from '../../mockdata/fetch_data/Home_PC_SetsPage';
 
 function HomePage() {
   return (
-    <div className='pb-10'>
+    <div className='pb-10 max-w-7xl mx-auto'>
         <main className='mt-1'>
           <section>
             <HeroSectioPage />

@@ -1,0 +1,44 @@
+{
+    "cate": [
+        {
+            "id" : 1,
+            "name" : "Razer",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/f5cd6f347cf02020566755e1cfbbc500.png"
+        },
+        {
+            "id" : 2,
+            "name" : "Corsair",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/2207eb81e4bc87d3ba31a1ce672dcb91.png"
+        },
+        {
+            "id" : 3,
+            "name" : "DxRacer",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/8b21257864004a1add4911fbdd8a0b61.png"
+        },
+        {
+            "id" : 4,
+            "name" : "Logitech",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/3086daad15b25c63ce88bd2a74e703ee.png"
+        },
+        {
+            "id" : 5,
+            "name" : "Rog Strix",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/463b7049316dce86a392aeb2d0f1bc2c.png"
+        },
+        {
+            "id" : 6,
+            "name" : "HyperX",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/3a5cde05d7f4585101bc305827877887.png"
+        },
+        {
+            "id" : 7,
+            "name" : "Scorpion",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/00ea48462bb1160cfb92c985560fb94a.png"
+        },
+        {
+            "id" : 8,
+            "name" : "Akko",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/d3ad0d59c5c8e14f3edea591e7e5b007.png"
+        }
+    ]
+}

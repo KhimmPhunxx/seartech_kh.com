@@ -1,0 +1,72 @@
+{
+    "lenovo": [
+        {
+            "id" : 1,
+            "name" : "IdeaCentre AIO 3 22IAP7 -  Intel® Core™ i3-1220P Processor",
+            "price" : 589,
+            "image" : "https://i5.walmartimages.com/seo/Lenovo-IdeaCentre-AIO-3-22IAP7-F0GG-All-in-one-stand-Core-i3-1220P-1-5-GHz-RAM-8-GB-SSD-256-NVMe-UHD-Graphics-GigE-Bluetooth-5-2-WLAN-802-11a-b-g-n-a_66b1c634-f9b4-44bc-b85e-29ff1ffbb01d.2c16d4cd3802fa2fe773c4e43cc96504.jpeg"
+        },
+        {
+            "id" : 2,
+            "name" : "ThinkCentre Neo 30A 24 (AIO) - Intel® Core™ i5-1240P Processor",
+            "price" : 759,
+            "image" : "https://starlite.com.gh/cdn/shop/products/lenovo-neo30a-aio-11_1000x.jpg?v=1680099457"
+        },
+        {
+            "id" : 3,
+            "name" : "ThinkCentre Neo 30A 24 (AIO) -  Intel® Core™ i3-1220P Processor",
+            "price" : 639,
+            "image" : "https://starlite.com.gh/cdn/shop/products/lenovo-neo30a-aio-11_1000x.jpg?v=1680099457"
+        },
+        {
+            "id" : 4,
+            "name" : "IThinkCentre Neo 50T -  Intel® Core i3-12100 Processor",
+            "price" : 499,
+            "image" : "https://s3-apw.badencloud.store/49882-cdn/f8ead1e1-c225-4e4a-8bf8-84a9287cfb13_5_1687853932.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "IdeaCentre AIO 3 24IAP7 - Intel® Core™ i5-1240P",
+            "price" : 799,
+            "image" : "https://panamericana.vtexassets.com/arquivos/ids/501425/all-in-one-lenovo-ideacentre-aio-3-24iap7-23-8-core-i5-1240p-ram-8gb-512-gb-ssd-2-196802150552.jpg?v=638230507862400000"
+        }
+    ],
+    "dell": [
+        {
+            "id" : 6,
+            "name" : "Dell Inspiron AIO 5410 (Black) - Intel® Core i3-1215U",
+            "price" : 599,
+            "image" : "https://static-01.shop.com.mm/p/647bb98c700c3ff117024ef7a4cc15aa.png_750x750.jpg_.webp"
+        },
+        {
+            "id" : 7,
+            "name" : "Dell Inspiron AIO 5410 (Black) - Intel® Core i5-1235U",
+            "price" : 699,
+            "image" : "https://tkcustomcomputer.com/assets/uploads/3bc4bd93422a58090b63f25af6c84e1d.jpg"
+        },
+        {
+            "id" : 8,
+            "name" : "Dell Inspiron AIO 5410 Touch (Silver) -  Intel® Core™ i7-1255U",
+            "price" : 899,
+            "image" : "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/zsfmnLg6Rl3jzbJXYb4iU6l4Zl40RsnkyDUxvSCF.png"
+        },
+        {
+            "id" : 9,
+            "name" : "Dell Inspiron Mini Tower 3910 -  Intel® Core i3-12100",
+            "price" : 599,
+            "image" : "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/xL0vXWK8eVpIgpepEhY1N1dUkRfELm8Tl4fZcG4f.png"
+        },
+        {
+            "id" : 10,
+            "name" : "Dell Inspiron Mini Tower 3910 -  Intel® Core i7-12700",
+            "price" : 699,
+            "image" : "https://m.media-amazon.com/images/I/71p3+o8ywcL.jpg"
+        },
+        {
+            "id" : 11,
+            "name" : "Dell Vostro Mini Tower 3910 -  Intel® Core i3-12100",
+            "price" : 899,
+            "image" : "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/fi41bNRI2junlDglygrDuJFbz1yZFfAmOL8WjuAI.png"
+        }
+    ]
+}

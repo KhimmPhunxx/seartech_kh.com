@@ -4,6 +4,8 @@ import category_data from './Laptop_category.json'
 import Asus_ViviBook from './Asus_ViviBook'
 import Asus_ZenBook from './Asus_ZenBook'
 
+import banner_01 from './../../assets/images/home_image/banner/banner-01.jpg'
+
 function Laptop_Page() {
   return (
     <main>
@@ -36,7 +38,7 @@ function Laptop_Page() {
                     w-full border rounded-lg
                     bg-cover bg-center bg-no-repeat
                     '
-                    style={{backgroundImage: `url('https://cdn.shopify.com/s/files/1/0355/8296/7943/files/asus-vivobook-promo.jpg?v=1646992927')`}}
+                    style={{backgroundImage: `url('${banner_01}')`}}
                     >
                         <div className='w-full l bg-gradient-to-r flex space-x-4 from-gray-600 to-gray-0 rounded-lg overflow-hidden p-5'>
                         <div className='h-full w-32 border-r pr-2'>
@@ -56,7 +58,7 @@ function Laptop_Page() {
                     w-full border rounded-lg
                     bg-cover bg-center bg-no-repeat
                     '
-                    style={{backgroundImage: `url('https://cdn.shopify.com/s/files/1/0355/8296/7943/files/asus-vivobook-promo.jpg?v=1646992927')`}}
+                    style={{backgroundImage: `url('${banner_01}')`}}
                     >
                         <div className='w-full l bg-gradient-to-r flex space-x-4 from-gray-600 to-gray-0 rounded-lg overflow-hidden p-5'>
                         <div className='h-full w-32 border-r pr-2'>

@@ -32,7 +32,7 @@ function Layout() {
         <nav className='sticky top-0 z-50'>
             <NavigationBar />
         </nav>
-        <main className='max-w-7xl mx-auto'>
+        <main className='w-full'>
             <Outlet />
         </main>
         <footer className='z-50'>

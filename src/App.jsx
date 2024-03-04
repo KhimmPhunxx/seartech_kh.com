@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css'
 import Layout from './components/layout/layout'
 import { BrowserRouter,Route, Routes } from 'react-router-dom'
-import HomePage from './pages/home/HomePage'
+import HomePage from './pages/home/HomePage' 
 import LaptopPage from './pages/laptop/LaptopPage'
 import PC_Hardware from './pages/pc_hardware/PC_Hardware'
 import ContactPage from './pages/contact/ContactPage'
@@ -25,7 +25,6 @@ function App() {
           <Route path='pc_set' element={<PC_Sets/>} />
           <Route path='second_hand' element={<Second_Hand_Page/>} />
           <Route path='contact' element={<ContactPage/>} />
-
         </Route>
       </Routes>
    </BrowserRouter>

@@ -1,0 +1,96 @@
+{
+    "razer": [
+        {
+            "id" : 1,
+            "name" : "Razer Death Adder Essential White Edition",
+            "price" : 19,
+            "image" : "https://tkcustomcomputer.com/assets/uploads/1cbb2586678c84113d25f1beda04d548.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "Razer Death Adder Essential Black",
+            "price" : 19,
+            "image" : "https://tkcustomcomputer.com/assets/uploads/21facb81d64c80126834f91cf213af03.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "Razer Kraken V3 X Gaming Headset: 7.1 Surround Sound - Triforce 40mm Drivers - HyperClear Bendable Cardioid Mic - Chroma RGB Lighting",
+            "price" : 49,
+            "image" : "https://www.ione.com.kh/wp-content/uploads/2023/09/1-127.jpg"
+        },
+        {
+            "id" : 4,
+            "name" : "Razer Seiren X",
+            "price" : 95,
+            "image" : "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_kJNzzpyVU21c3U3n5sc3BwiSM9fHjySR9zj4bOKm.gif"
+        },
+        {
+            "id" : 5,
+            "name" : "Razer Seiren Emote ( 8-bit Emoticon LED Display )",
+            "price" : 149,
+            "image" : "https://www.tejar.com/media/catalog/product/cache/1/image/450x298/9df78eab33525d08d6e5fb8d27136e95/r/a/razer_seiren_emote_hypercardioid_condenser_microphone2_-_tejar.jpg"
+        },
+        {
+            "id" : 6,
+            "name" : "Razer Seiren Elite USB Streaming Microphone",
+            "price" : 179,
+            "image" : "https://tecdeal.com/wp-content/uploads/2022/09/razer-Microphoe_1.jpg"
+        },
+        {
+            "id" : 7,
+            "name" : "Razer Gigantus v2 Cloth Gaming Mouse Pad ( 3XL )",
+            "price" : 55,
+            "image" : "https://i5.walmartimages.com/asr/7a56a4d6-f101-4c41-8186-037f40e7a07e.4ad46584e8ac342dac941ceefb968624.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+        },
+        {
+            "id" : 8,
+            "name" : "Razer Goliathus Chroma Extended - Soft Gaming Mouse Mat with Chroma",
+            "price" : 59,
+            "image" : "https://cdn11.bigcommerce.com/s-8e755/images/stencil/1280x1280/products/214402/280742/razer_goliathus_chroma_soft_gaming_mouse_pad_3xl_ac57571_2__15523.1664518836.jpg?c=2&imbypass=on"
+        },
+        {
+            "id" : 9,
+            "name" : "Razer Kiyo X Full HD Streaming Webcam: 1080p 30FPS or 720p 60FPS - Equipped with Auto Focus - Fully Customizable Settings - Flexible Mounting Options",
+            "price" : 99,
+            "image" : "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_85015447?x=480&y=334&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=480&ey=334&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=480&cdy=334"
+        }
+    ],
+    "corsair": [
+        {
+            "id" : 1,
+            "name" : "Corsair K70 PRO MINI WIRELESS RGB 60% Mechanical (Fastest Sub-1ms Wireless, Swappable CHERRY MX Red Keyswitches, Aluminum Frame, PBT Double-Shot Keycaps)",
+            "price" : 179,
+            "image" : "https://ccimg.canadacomputers.com/Products/1000x1000/276/4910/224832/28488.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "Corsair HS55 Stereo Gaming Headset (Leatherette Memory Foam Ear Pads) - White",
+            "price" : 79,
+            "image" : "https://www.maxgaming.com/bilder/artiklar/zoom/23505_4.jpg?m=1674809497"
+        },
+        {
+            "id" : 3,
+            "name" : "Corsair HS55 Surround Gaming Headset (Leatherette Memory Foam Ear Pads) ",
+            "price" : 70,
+            "image" : "https://www.awd-it.co.uk/media/catalog/product/3/4/3496658-l-a.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:"
+        },
+        {
+            "id" : 4,
+            "name" : "Corsair MM350 PRO Premium Spill-Proof Cloth Gaming Mouse Pad – Extended XL - Black",
+            "price" : 40,
+            "image" : "https://www.onixbd.com/image/cache/catalog/mouse-pad/corsair/corsair-mm350-pro-mouse-pad-1-412x412.jpg.webp"
+        },
+        {
+            "id" : 5,
+            "name" : "orsair Elgato Wave:3 - Premium Studio Quality USB",
+            "price" : 155,
+            "image" : "https://computechstore.in/wp-content/uploads/2023/05/Elgato-Wave-3.jpg"
+        },
+        {
+            "id" : 6,
+            "name" : "Corsair ST100 RGB Premium Headset Stand with 7.1 Surround Sound - 3.5mm and 2xUSB 3.0,Aluminum",
+            "price" : 75,
+            "image" : "https://tech.co.za/wp-content/uploads/2022/02/CA-9011167a-500x375.png.webp"
+        }
+    ]
+}

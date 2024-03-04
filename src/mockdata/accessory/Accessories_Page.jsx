@@ -3,6 +3,7 @@ import React from 'react'
 import category_data from './access_category.json'
 import TP_Link from './TP_Link'
 import Adata from './Adata'
+import banner_01 from './../../assets/images/home_image/banner/banner-01.jpg'
 
 function Accessories_Page() {
   return (
@@ -35,7 +36,7 @@ function Accessories_Page() {
                     w-full border rounded-lg
                     bg-cover bg-center bg-no-repeat
                     '
-                    style={{backgroundImage: `url('https://cdn.shopify.com/s/files/1/0355/8296/7943/files/asus-vivobook-promo.jpg?v=1646992927')`}}
+                    style={{backgroundImage: `url('${banner_01}')`}}
                     >
                         <div className='w-full bg-gradient-to-r flex space-x-4 from-gray-600 to-gray-0 rounded-lg overflow-hidden p-5'>
                         <div className='h-8 w-24 border-r pr-2'>
@@ -55,7 +56,7 @@ function Accessories_Page() {
                     w-full border rounded-lg
                     bg-cover bg-center bg-no-repeat
                     '
-                    style={{backgroundImage: `url('https://cdn.shopify.com/s/files/1/0355/8296/7943/files/asus-vivobook-promo.jpg?v=1646992927')`}}
+                    style={{backgroundImage: `url('${banner_01}')`}}
                     >
                         <div className='w-full bg-gradient-to-r flex space-x-4 from-gray-600 to-gray-0 rounded-lg overflow-hidden p-5'>
                             <div className='h-9 w-28 border-r pr-2'>

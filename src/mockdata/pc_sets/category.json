@@ -1,0 +1,22 @@
+{
+    "cate" : [
+        {
+            "id" : 1,
+            "name" : "Lenovo",
+            "link" : "/",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/77cd1a7c285872fc3f0780dd4120275e.png"
+        },
+        {
+            "id" : 2,
+            "name" : "Dell",
+            "link" : "/contact",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/318644a0f2f45f1fc4bc39acfc2572ab.png"
+        },
+        {
+            "id" : 3,
+            "name" : "Alienware",
+            "link" : "/",
+            "image" : "https://tkcustomcomputer.com/assets/uploads/brands/fedc6643c4cae0ee3fe331db716cab9a.png"
+        }
+    ]
+}
