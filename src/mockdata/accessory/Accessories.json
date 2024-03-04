@@ -1,0 +1,78 @@
+{
+    "tp_link": [
+        {
+            "id": 1,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://www.ryanscomputers.com/storage/products/main/tp-link-archer-ax90-ax6600-mbps-gigabit-tri-band-31628058302.webp"
+        },
+        {
+            "id": 2,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://poly.scene7.com/is/image/plantronics/obi-wifi-adapter-2-1?$grid-product-square$"
+        },
+        {
+            "id": 3,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://images.thdstatic.com/productImages/6e1d212d-ee02-4ab6-9e89-79eb2bc7d27a/svn/sanoxy-car-storage-accessories-pp-wifi-rptr-64_1000.jpg"
+        },
+        {
+            "id": 4,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://www.micromall.co.nz/image/cache/catalog/51fdg-i8iol_ac_sx679_-4970-700x700.jpg"
+        },
+        {
+            "id": 5,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://m.media-amazon.com/images/I/518Eq0-EF0L.jpg"
+        },
+        {
+            "id": 6,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://market.samm.com/mini-wifi-usb-2-0-adapter-computer-accessories-samm-306-19-B.png"
+        }
+    ],
+    "adata": [
+        {
+            "id": 1,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://www.ryanscomputers.com/storage/products/main/tp-link-archer-ax90-ax6600-mbps-gigabit-tri-band-31628058302.webp"
+        },
+        {
+            "id": 2,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://poly.scene7.com/is/image/plantronics/obi-wifi-adapter-2-1?$grid-product-square$"
+        },
+        {
+            "id": 3,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://images.thdstatic.com/productImages/6e1d212d-ee02-4ab6-9e89-79eb2bc7d27a/svn/sanoxy-car-storage-accessories-pp-wifi-rptr-64_1000.jpg"
+        },
+        {
+            "id": 4,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://www.micromall.co.nz/image/cache/catalog/51fdg-i8iol_ac_sx679_-4970-700x700.jpg"
+        },
+        {
+            "id": 5,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://m.media-amazon.com/images/I/518Eq0-EF0L.jpg"
+        },
+        {
+            "id": 6,
+            "name": "AX6600 Tri-Band Wi-Fi 6 Router ( Archer AX90 )",
+            "price": 249,
+            "image": "https://market.samm.com/mini-wifi-usb-2-0-adapter-computer-accessories-samm-306-19-B.png"
+        }
+    ]
+}

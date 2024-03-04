@@ -12,13 +12,13 @@ function FooterBar() {
             <div className='h-full space-y-2'>
                 <h1 className='text-lg text-gray-200'>Conatct</h1>
                 <div className='space-y-1'>
-                    <NavLink className='text-gray-400 hover:text-gray-100 flex space-x-2'><IoMail className='mt-1'/> <p>example@gmail.com </p></NavLink>
-                    <NavLink className='text-gray-400 hover:text-gray-100 flex space-x-2'><IoCall className='mt-1'/> <p>014 417 125 </p></NavLink>
+                    <NavLink className='text-gray-400 hover:text-gray-100 flex space-x-2'><IoMail className='mt-1'/> <p>Kimseagoodboy@gmail.com </p></NavLink>
+                    <NavLink className='text-gray-400 hover:text-gray-100 flex space-x-2'><IoCall className='mt-1'/> <p>099808088 </p></NavLink>
                     <NavLink className='text-gray-400 hover:text-gray-100 flex space-x-2'><IoLocation className='mt-1'/> <p>Cambodia, Phnom Penh </p></NavLink>
                 </div>
                 <div className='flex space-x-4'>
                   <NavLink to={'/'} className='text-gray-400 hover:text-gray-100'><FaTelegram className='text-3xl' /></NavLink>
-                  <NavLink to={'/'} className='text-gray-400 hover:text-gray-100'><FaFacebook className='text-3xl' /></NavLink>
+                  <NavLink target='-blank' to={'https://www.facebook.com/profile.php?id=61556792725526&mibextid=hu50Ix'} className='text-gray-400 hover:text-gray-100'><FaFacebook className='text-3xl' /></NavLink>
                   <NavLink to={'/'} className='text-gray-400 hover:text-gray-100'><FaInstagram className='text-3xl' /></NavLink>
                 </div>
             </div>

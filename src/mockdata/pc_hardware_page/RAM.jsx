@@ -1,13 +1,13 @@
 import React from 'react'
 
-import cpu_data from './Category.json'
-import { NavLink } from 'react-router-dom';
+import ram_data from './Category.json'
+import { NavLink } from 'react-router-dom'
 
-function CPU() {
+function RAM() {
   return (
     <div className='grid grid-cols-3 gap-1'>
         {
-            cpu_data.cpu.map((item, index) => {
+            ram_data.ram.map((item, index) => {
                 return (
                     <div key={index} className='w-full p-5 border py-10 cursor-pointer'>
                         <div className='w-[90%] h-44 mx-auto border-b'>
@@ -19,7 +19,6 @@ function CPU() {
                                     <h1 className='text-xs'>• {item.spec1} = <NavLink className={'text-lg text-red-500 font-bold'}> ${item.price1}</NavLink> </h1> 
                                     <h1 className='text-xs'>• {item.spec2} = <NavLink className={'text-lg text-red-500 font-bold'}> ${item.price2}</NavLink> </h1>
                                     <h1 className='text-xs'>• {item.spec3} = <NavLink className={'text-lg text-red-500 font-bold'}> ${item.price3}</NavLink> </h1>
-                                    <h1 className='text-xs'>• {item.spec4} = <NavLink className={'text-lg text-red-500 font-bold'}> ${item.price4}</NavLink> </h1>
                                 </div>
                         </div>
                     </div>
@@ -30,4 +29,4 @@ function CPU() {
   )
 }
 
-export default CPU
+export default RAM

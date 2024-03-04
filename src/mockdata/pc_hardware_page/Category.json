@@ -79,5 +79,73 @@
             "price4" : " 309.00",
             "image" : "https://www.pcstudio.in/wp-content/uploads/2023/10/Intel-Core-i9-14900KF-14th-Gen-Desktop-Processor-1.jpg"
         }
+    ],
+    "ram": [
+        {
+            "id" : 1,
+            "name" : "XPG Lancer RGB DDR5",
+            "spec1" : "XPG LANCER RGB 32GB (16x2) - DDR5 6000Mhz",
+            "spec2" : "XPG LANCER RGB 32GB (16x2) - DDR5 (5200MHz)",
+            "spec4" : "XPG LANCER RGB 16GB - DDR5 Single (5200MHz)",
+            "price1" : "129.00",
+            "price2" : "119.00",
+            "price3" : "65.00",
+            "image" : "https://webapi3.adata.com/storage/product/869_gallery_05.png"
+        },
+        {
+            "id" : 2,
+            "name" : "Corsair Vengeance RGB Pro",
+            "spec1" : "Corsair Vengeance RGB Pro 32GB (16x2) - DDR4 3600Mhz",
+            "spec2" : "Corsair Vengeance RGB Pro 32GB (16x2) - DDR4 3200Mhz",
+            "spec4" : "Corsair Vengeance RGB Pro 16GB - DDR4 Single (3200Mhz)",
+            "price1" : "99.00",
+            "price2" : "89.00",
+            "price3" : "45.00",
+            "image" : "https://webapi3.adata.com/storage/product/869_gallery_05.png"
+        },
+        {
+            "id" : 3,
+            "name" : "G.Skill Trident Z RGB",
+            "spec1" : "G.Skill Trident Z RGB 32GB (16x2) - DDR4 3600Mhz",
+            "spec2" : "G.Skill Trident Z RGB 32GB (16x2) - DDR4 3200Mhz",
+            "spec4" : "G.Skill Trident Z RGB 16GB - DDR4 Single (3200Mhz)",
+            "price1" : "99.00",
+            "price2" : "89.00",
+            "price3" : "45.00",
+            "image" : "https://webapi3.adata.com/storage/product/869_gallery_05.png"
+        },
+        {
+            "id" : 4,
+            "name" : "Kingston HyperX Fury",
+            "spec1" : "Kingston HyperX Fury 32GB (16x2) - DDR4 3600Mhz",
+            "spec2" : "Kingston HyperX Fury 32GB (16x2) - DDR4 3200Mhz",
+            "spec4" : "Kingston HyperX Fury 16GB - DDR4 Single (3200Mhz)",
+            "price1" : "99.00",
+            "price2" : "89.00",
+            "price3" : "45.00",
+            "image" : "https://webapi3.adata.com/storage/product/869_gallery_05.png"
+        },
+        {
+            "id" : 5,
+            "name" : "Adata XPG Spectrix D60G",
+            "spec1" : "Adata XPG Spectrix D60G 32GB (16x2) - DDR4 3600Mhz",
+            "spec2" : "Adata XPG Spectrix D60G 32GB (16x2) - DDR4 3200Mhz",
+            "spec4" : "Adata XPG Spectrix D60G 16GB - DDR4 Single (3200Mhz)",
+            "price1" : "99.00",
+            "price2" : "89.00",
+            "price3" : "45.00",
+            "image" : "https://webapi3.adata.com/storage/product/869_gallery_05.png"
+        },
+        {
+            "id" : 6,
+            "name" : "Crucial Ballistix",
+            "spec1" : "Crucial Ballistix 32GB (16x2) - DDR4 3600Mhz",
+            "spec2" : "Crucial Ballistix 32GB (16x2) - DDR4 3200Mhz",
+            "spec4" : "Crucial Ballistix 16GB - DDR4 Single (3200Mhz)",
+            "price1" : "99.00",
+            "price2" : "89.00",
+            "price3" : "45.00",
+            "image" : "https://webapi3.adata.com/storage/product/869_gallery_05.png"
+        }
     ]
 }

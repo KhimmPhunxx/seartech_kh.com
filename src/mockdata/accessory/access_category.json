@@ -1,0 +1,44 @@
+{
+    "category": [
+        {
+            "id" : 1,
+            "name" : "tp_link",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/9/94/TPLINK_Logo_2.png"
+        },
+        {
+            "id" : 2,
+            "name" : "Samsung",
+            "image" : "https://pngimg.com/d/samsung_logo_PNG14.png"
+        },
+        {
+            "id" : 3,
+            "name" : "Adata",
+            "image" : "https://logos-world.net/wp-content/uploads/2022/03/ADATA-Logo.png"
+        },
+        {
+            "id" : 4,
+            "name" : "TruPower",
+            "image" : "https://images.squarespace-cdn.com/content/v1/652d529209ac7804fe612c59/bdcc7afe-3412-4113-ba9d-a0fe4ac1538e/Logo+Full+Size+on+black.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "APC",
+            "image" : "https://1000logos.net/wp-content/uploads/2020/09/APC-Logo.png"
+        },
+        {
+            "id" : 6,
+            "name" : "Orico",
+            "image" : "https://oricotechs.com/cdn/shop/files/logo-1200x628-1.png?v=1688113583&width=1200"
+        },
+        {
+            "id" : 7,
+            "name" : "Targus",
+            "image" : "https://cdn.freelogovectors.net/wp-content/uploads/2023/01/targus-logo-freelogovectors.net_.png"
+        },
+        {
+            "id" : 8,
+            "name" : "Asus",
+            "image" : "https://logos-world.net/wp-content/uploads/2020/07/Asus-Logo.png"
+        }
+    ]
+}
