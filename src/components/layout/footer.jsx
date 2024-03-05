@@ -4,6 +4,7 @@ import { IoCall, IoLocation, IoMail } from 'react-icons/io5'
 import { NavLink } from 'react-router-dom';
 
 function FooterBar() {
+
   return (
     <footer className=' -full bg-black py-5 z-50'>  
       <section className='max-w-7xl mx-auto h-full py-6 border-b px-5'>

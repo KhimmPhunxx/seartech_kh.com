@@ -15,7 +15,7 @@ function PC_Hardware_Page() {
                     category_data.data_cate_hardware.map((item, index) => {
                         return (
                             <div key={index} className='w-full border-b'>
-                            <div className='w-[60%] mx-auto h-20 p-5'>
+                            <div className='w-[80%] mx-auto h-20 p-5'>
                                 <img src={item.image} alt="" 
                                 className='
                                     w-full

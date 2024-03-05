@@ -60,9 +60,9 @@ function Peripherals_Page() {
                     >
                         <div className='w-full bg-gradient-to-r flex space-x-4 from-gray-600 to-gray-0 rounded-lg overflow-hidden p-5'>
                             <div className='h-9 w-28 border-r pr-2'>
-                                <img className='h-full w-full object-cover rounded' src="https://logos-world.net/wp-content/uploads/2022/03/ADATA-Logo.png" alt="" />
+                                <img className='h-full w-full object-cover rounded' src="https://tkcustomcomputer.com/assets/uploads/brands/2207eb81e4bc87d3ba31a1ce672dcb91.png" alt="" />
                             </div>
-                            <h1 className='text-3xl text-gray-100 font-medium'>ADATA</h1>
+                            <h1 className='text-3xl text-gray-100 font-medium'>CORSAIR</h1>
                         </div>
                     </div>
                     <div className='mt-2'>

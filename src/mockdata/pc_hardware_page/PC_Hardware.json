@@ -3,52 +3,52 @@
         {
             "id": 1,
             "name": "Cpu",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/5abe599377685419e0c98f9023e0bcfb.png"
         },
         {
             "id": 2,
             "name": "RAM",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/10008eae653badf9db6c480534d7983d.png"
         },
         {
             "id": 3,
             "name": "PSU",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/dc055cbd4f353ef09e7e3896caa73bfe.png"
         },
         {
             "id": 4,
             "name": "Coolor",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/3063981714910bf43a2f3795d0ef67d3.png"
         },
         {
             "id": 5,
             "name": "Intel",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/f612674dc453fabcf211b3a6398d6538.png"
         },
         {
             "id": 6,
             "name": "AMD",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/de16effcd3b8ee60ba88b079c3f355a5.png"
         },
         {
             "id": 7,
             "name": "GPU",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/2d1d4cad9a7e953fc16330425bf3e120.png"
         },
         {
             "id": 8,
             "name": "Storage",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/e2ee05fb331661aa14b8be2e2e79e7ee.png"
         },
         {
             "id": 9,
             "name": "Case",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/2cb327764cb23a3df94505e0c80d4adc.png"
         },
         {
             "id": 10,
             "name": "Monitor",
-            "image": "https://www.creativefabrica.com/wp-content/uploads/2021/05/11/computer-cpu-icon-vector-Graphics-11935357-1.jpg"
+            "image": "https://tkcustomcomputer.com/assets/uploads/types/d9b1c1d6243c06660c6cb847d02cced3.png"
         }
     ]
 }
